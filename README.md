@@ -49,7 +49,7 @@ A local or online server for serving files (optional for advanced features).
 Steps to Run
 Clone the repository:
 
-git clone https://github.com/your-username/3D-Icosahedron-Grid.git
+git clone https:(https://github.com/indrakumarcse/Cube-Coloring)
 
 Navigate to the project directory:
 
